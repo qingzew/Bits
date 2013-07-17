@@ -1,3 +1,5 @@
+//author: wang
+//time: 2013.7.17
 #ifndef BITS_H
 #define BITS_H
 
