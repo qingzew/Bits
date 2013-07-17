@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1366202657 source:e:\code\algorithm\bits\bits.cpp
+	"Bits.h"
+
+1366204194 e:\code\algorithm\bits\bits.h
+	<iostream>
+
+1366204110 source:e:\code\algorithm\bits\main.cpp
+	<iostream>
+	"Bits.h"
+
