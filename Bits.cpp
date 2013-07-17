@@ -1,3 +1,5 @@
+//author: wang
+//time: 2013.7.17
 #include "Bits.h"
 
 int Bits::mask = 0x1f;
